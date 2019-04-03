@@ -13,5 +13,5 @@ netty实现的http动态代理服务器
 
 
 
-![](E:\git\netty\img\proxy.png)
+![](https://github.com/liukai90/netty-proxy/blob/master/img/proxy.png)
 
